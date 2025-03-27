@@ -23,9 +23,9 @@ This project presents a Master Timetable for the 2024/2025 academic year. The ti
 
 ### Installation
 
-- Open the index.html file in any modern web browser.
+- Open the [index.html](#index.html) file in any modern web browser.
 
-- Ensure the timetablestyle.css file is linked properly for full styling effects.
+- Ensure the [timetablestyle.css](#timetablestyle.css) file is linked properly for full styling effects.
 
 ### Usage
 

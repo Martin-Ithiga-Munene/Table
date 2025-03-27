@@ -5,15 +5,15 @@ This project presents a Master Timetable for the 2024/2025 academic year. The ti
 
 ### Features
 
-- [Structured Table Layout:](#Structured Table Layout:) Displays a well-organized timetable.
+- [Structured Table Layout:](#StructuredTableLayout:) Displays a well-organized timetable.
 
-- [Color Highlighting:](#Color Highlighting:) Important sessions (breaks, lunch, activities) are visually distinct.
+- [Color Highlighting:](#ColorHighlighting:) Important sessions (breaks, lunch, activities) are visually distinct.
 
-- [Hover Effect:](#Hover Effect:) Enhances readability when hovering over table cells.
+- [Hover Effect:](#HoverEffect:) Enhances readability when hovering over table cells.
 
-- [Responsive Design:](#Responsive Design:) Adapts to different screen sizes for better accessibility.
+- [Responsive Design:](#ResponsiveDesign:) Adapts to different screen sizes for better accessibility.
 
-- [Text Rotation:](#Text Rotation) "Form Tutors: Time" is rotated 180 degrees counterclockwise for better visualization.
+- [Text Rotation:](#TextRotation) "Form Tutors: Time" is rotated 180 degrees counterclockwise for better visualization.
 
 ### Technologies Used
 

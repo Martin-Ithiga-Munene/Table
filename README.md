@@ -21,6 +21,18 @@ This project presents a Master Timetable for the 2024/2025 academic year. The ti
 
 - [CSS:](#CSS) Styling, responsiveness, and hover effects.
 
+### Installation
+
+- Open the index.html file in any modern web browser.
+
+- Ensure the timetablestyle.css file is linked properly for full styling effects.
+
+### Usage
+
+- Open the file in a browser to view the timetable.
+
+- Customize subjects, times, or colors in the [HTML](#HTML) and [CSS](#CSS) files as needed.
+
 ### Modifications
 
 - To adjust colors, modify the timetablestyle.css file.
